@@ -4,6 +4,9 @@ version = "0.1.0"
 edition = "2021"
 license = "GPL-3.0-or-later"
 description = "A super simple library, because I hate implementing this function!"
+homepage = "https://www.github.com/SylvanM/sylvans_parser"
+repository = "https://www.github.com/SylvanM/sylvans_parser"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
